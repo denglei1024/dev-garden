@@ -1,1 +1,1 @@
-- {{query (and [[TechNotes]] (property updated < 2023-10))}}
+- {{query (and [[TechNotes]] (property updated < 2025-3))}}
