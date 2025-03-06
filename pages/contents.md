@@ -1,4 +1,4 @@
 - [[Dashboard]] | 仪表板
-- [[CheatSheets]] | 速查表
+- [[CheetSheets]] | 速查表
 - [[TechNotes]] | 技术笔记
 -
