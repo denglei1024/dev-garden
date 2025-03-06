@@ -1,3 +1,3 @@
-- [[Dashboard]]
+- [[Dashboard]] | 仪表板
 - [[CheatSheets]] | 速查表
 -
