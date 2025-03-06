@@ -1,3 +1,3 @@
 - [[Dashboard]]
-- [[CheatSheets]]
+- [[CheatSheets]] | 速查表
 -
